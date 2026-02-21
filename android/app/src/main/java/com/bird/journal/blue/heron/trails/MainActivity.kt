@@ -1,4 +1,4 @@
-package com.birdjournalblueherontrails
+package com.bird.journal.blue.heron.trails
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

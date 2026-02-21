@@ -1,4 +1,4 @@
-package com.birdjournalblueherontrails
+package com.bird.journal.blue.heron.trails
 
 import android.app.Application
 import com.facebook.react.PackageList
